@@ -1,0 +1,71 @@
+*{
+	font-family: arial;
+	font-size: 20;
+}
+body{
+	background-color: #000;
+}
+th{
+	text-decoration: underline;
+}
+.threadwrapper{
+	background-color: #0aF;
+	color: #fff;
+	float: left;
+	border: 10px solid white;
+	margin: 25px;
+	margin-left: 0px;
+	padding: 20px;
+	width: 90%;
+	
+}
+.imgthreadwrapper{
+	background-color: #0aF;
+	color: #fff;
+	float: right;
+	border: 10px solid white;
+	margin: 50px;
+	padding: 20px;
+	width: 30%;
+	
+}
+.banner{
+	color: #fff;
+	float: center;
+	font-size: 36px;
+	text-decoration: underline;
+}
+.profile{
+	background-color: #0aF;
+	color: #fff;
+	float: left;
+	border: 10px solid white;
+	margin: 50px;
+	padding: 20px;
+	width: 30%;
+}
+.favicon{
+	width: 100%;
+}
+.dispUsername{
+	float: center;
+}
+.posttable{
+	font-size: 20px;
+	margin: 20px;
+	padding: 10px;
+	border: 6px solid black;
+	width: 90%;
+	table-layout: fixed;
+}
+.microtable{
+	padding: 10px;
+	color: #000;
+	background-color: #fff;
+	word-wrap: break-word;
+	
+}
+.footertext{
+	color: #666;
+	
+}
